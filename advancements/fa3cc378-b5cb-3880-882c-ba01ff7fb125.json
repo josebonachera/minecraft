@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2021-02-18 00:18:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-01-26 01:00:28 +0100"
@@ -140,6 +146,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2021-01-30 00:00:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-02-17 23:57:48 +0100"
     },
     "done": true
   },
@@ -374,6 +386,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2021-01-30 00:00:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2021-02-18 00:18:13 +0100"
     },
     "done": true
   },
@@ -639,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-02-18 00:26:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-01-29 00:50:24 +0100"
@@ -702,6 +726,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-01-27 23:54:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-02-18 00:26:23 +0100"
     },
     "done": true
   },
@@ -981,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-02-18 00:18:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2021-01-30 16:46:57 +0100"
@@ -1084,6 +1120,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2021-01-30 01:38:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-02-18 00:26:23 +0100"
     },
     "done": true
   },
@@ -1351,6 +1393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2021-02-18 00:26:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2021-01-30 00:52:28 +0100"
@@ -1456,7 +1504,9 @@
       "apple": "2021-01-27 00:37:38 +0100",
       "pumpkin_pie": "2021-02-15 21:36:34 +0100",
       "bread": "2021-01-26 20:58:58 +0100",
+      "golden_apple": "2021-02-18 00:23:12 +0100",
       "rotten_flesh": "2021-01-27 21:11:51 +0100",
+      "cookie": "2021-02-17 23:51:02 +0100",
       "salmon": "2021-02-06 00:48:13 +0100",
       "cooked_chicken": "2021-01-26 23:17:53 +0100",
       "cooked_salmon": "2021-01-26 23:39:23 +0100"
@@ -1592,6 +1642,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-01-26 20:50:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-02-18 00:26:23 +0100"
     },
     "done": true
   },
@@ -1844,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-02-18 00:18:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-01-31 20:23:43 +0100"
@@ -1883,6 +1945,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-31 19:29:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2021-02-18 00:18:13 +0100"
     },
     "done": true
   },
@@ -2282,6 +2350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2021-02-18 00:18:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-01-29 23:55:45 +0100"
@@ -2303,6 +2377,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-01-26 20:50:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2021-02-18 00:18:13 +0100"
     },
     "done": true
   },
